@@ -1,0 +1,43 @@
+.heading{
+    width: 100%;
+    text-align: left;
+   background-color : 	#A0E6FF;
+   color: #391285;
+   font-family:'Courier New', monospace;
+   font-weight:bold !important;
+}
+.heading h2{
+    display: inline;
+
+font-size: 48px;}
+.heading button{
+    float: right;
+    border:2px solid navy;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status{
+    font-size: 25px;
+}
+#cred{
+
+    background-color: #CEC8EF;
+    width: 100%;
+font-weight: bold;
+    font-size: 25px;
+    bottom:0;
+    margin:0px;
+}
+
+.instruction_image{
+    display:inline-block;
+    width: 45%;
+}
+
+video{
+    background: url("game_console.png") ;
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
